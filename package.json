@@ -10,6 +10,7 @@
     "@elysiajs/swagger": "^1.1.1",
     "@types/bun": "^1.1.6",
     "elysia": "latest",
+    "mongoose": "^8.5.3",
     "zod": "^3.23.8"
   },
   "devDependencies": {
